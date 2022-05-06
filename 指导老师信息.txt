@@ -1,0 +1,14 @@
+研究方向：进化优化、多任务优化、组合优化；
+职务：无/讲师；
+手机：18729209093；
+电子邮箱：xingxing.hao@nwu.edu.cn；
+主要成果：
+项目：
+(1) 国家自然科学基金委员会，青年科学基金项目, 62106199, 面向多任务优化的超启发式演化算法研究, 2022-01-01 至 2024-12-31, 30万元, 在研, 主持
+(2) 陕西省教育厅，陕西省教育厅一般项目，21JK0926，求解多精度优化问题的多任务演化算法研究，2021-01-01 至 2022-12-31，2万元，在研，主持
+论文：
+(1) Xingxing Hao X ; Jing Liu; Xiaoxiao Yuan; Xianglong Tang; Zhangtao Li ; A moving block seque nce-based evolutionary algorithm for resource-constrained project scheduling problems, Internatio nal Journal of Bio-Inspired Computation, 2019, 14(2): 85-102 (期刊论文 期 )
+(2) Xingxing Hao X ; Jing Liu; Yutong Zhang; Gustaph Sanga ; Mathematical model and simulated an nealing algorithm for Chinese high school timetabling problems under the new curriculum innovatio n, Frontiers of Computer Science, 2020, 15(1) (期刊论文 期 ) 
+(3) Kai Wu; Xingxing Hao X ; Jing Liu; Penghui Liu; Fang Shen ; Online Reconstruction of Complex Networks From Streaming Data, IEEE Transactions on Cybernetics (期刊论文 期 ) 
+(4) Kai Wu; Jing Liu; Xingxing Hao X ; Penghui Liu; Fang Shen ; An Evolutionary Multi-Objective Framework for Complex Network Reconstruction Using Community Structure, IEEE Transactions on Evol utionary Computation (期刊论文 期 ) 
+(5) Xingxing Hao X ; Rong Qu; Jing Liu ; A Unified Framework of Graph-Based Evolutionary Multitasking Hyper-Heuristic, IEEE Transactions on Evolutionary Computation, 2021.春季, 25(1): 35-47 (期刊论文 期 )
